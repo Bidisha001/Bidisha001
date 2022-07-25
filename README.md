@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bidisha
 - 👀 I’m interested in exploring new technology
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning 
 
 <!---
 Bidisha001/Bidisha001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
